@@ -1,2 +1,2 @@
 implementation of the resnet on MNIST and CIFAR
-the first code file contains the basic implementation of resnet on MNIST and the second on CIFAR
+the first code file contains the basic implementation of resnet on CIFAR and the second on MNIST
