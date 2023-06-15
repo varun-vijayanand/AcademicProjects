@@ -1,0 +1,3 @@
+this is the use of Kaiming He Weight initialization method on how it affects the accuracies.
+First part of the code is with the weight initialization and the second part is done without initialization
+MNIST Dataset has been used.
